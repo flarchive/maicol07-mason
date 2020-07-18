@@ -1,0 +1,51 @@
+{
+    "name": "maicol07/mason",
+    "description": "Add custom fields to discussions",
+    "keywords": [
+        "extension",
+        "flarum",
+        "flagrow",
+        "raafirivero",
+        "discussion",
+        "custom-fields"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "email": "clark.winkelmann@gmail.com",
+            "homepage": "https://clarkwinkelmann.com/"
+        },
+        {
+            "name": "Raafi Rivero",
+            "email": "raafi.rivero@gmail.com",
+            "homepage": "https://raafirivero.com/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/raafirivero/mason/issues",
+        "source": "https://github.com/raafirivero/mason"
+    },
+    "require": {
+        "flarum/core": ">=0.1.0-beta.10"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Mason Plus",
+            "icon": {
+                "name": "fas fa-dungeon",
+                "backgroundColor": "#f4f4f4",
+                "color": "#5f4bb6"
+            }
+        },
+        "raafirivero": {
+            "discuss": "https://discuss.flarum.org/d/7028"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "RaafiRivero\\Mason\\": "src/"
+        }
+    }
+}
