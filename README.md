@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of maicol07/mason.** Not for installation: use [Packagist](https://packagist.org/packages/maicol07/mason) or the [upstream repository](https://github.com/maicol07/mason).
 
-**0** versions archived · Latest: [`0.4`](https://github.com/flarchive/maicol07-mason/tree/archive/v0.4) · License: `MIT` · Flarum: `>=0.1.0-beta.10`
+**6** versions archived · Latest: [`0.4`](https://github.com/flarchive/maicol07-mason/tree/archive/v0.4) · License: `MIT` · Flarum: `>=0.1.0-beta.10`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-10-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/maicol07-mason/tree/archive/v0.1.0) |
+| `0.1.1` | 2017-10-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/maicol07-mason/tree/archive/v0.1.1) |
+| `0.2.0` | 2017-10-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/maicol07-mason/tree/archive/v0.2.0) |
+| `0.3.0` | 2019-02-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/maicol07-mason/tree/archive/v0.3.0) |
+| `0.3.1` | 2019-05-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/maicol07-mason/tree/archive/v0.3.1) |
+| `0.4` | 2020-07-18 | `>=0.1.0-beta.10` | [Browse](https://github.com/flarchive/maicol07-mason/tree/archive/v0.4) |
 
 Catalog entry: [packages/maicol07-mason.json](https://github.com/flarchive/archive-index/blob/main/packages/maicol07-mason.json)
 
